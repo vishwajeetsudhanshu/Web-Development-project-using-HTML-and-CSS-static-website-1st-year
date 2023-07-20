@@ -1,0 +1,74 @@
+
+.header
+
+{
+    margin-top: 10px;
+  background-color: black;
+  
+
+  
+ 
+ 
+}
+.menubar{
+    float: right;
+    margin-right: 20px;
+    
+}
+body{
+    width: 1200px;
+}
+.right{
+    transform: none !important;
+    width: 180px;
+   background-color: aqua;
+   border-radius: 100% 10% 80% 0% / 0% 1% 67% 100%  ;
+    
+    
+
+}
+.cright{
+    
+    color:red;
+    font-size: 1.5pc;
+    margin-top: 20px;
+    
+}
+.content{
+    margin-top: 0px;
+    float: left;
+    /* background-image: url(WhatsApp\ Image\ 2023-05-07\ at\ 00.40.05.jpg ); */
+    width: 1200px;
+    height: 500px;
+   
+}
+p1{
+   margin-top: 0%;
+}
+.img{
+    float: left;
+}
+/* .lmid{
+   text-align: center;
+  padding-top: 550px;
+  font-size: 2pc;
+  background-color: antiquewhite;
+  height: 0px;
+  width: 1200px;
+  border-radius: 2px solid black;
+  color: blue;
+ 
+  
+   
+} */
+p2{
+
+    font-size: 1pc;
+    margin-left: 160px;
+    margin-top: 1000px;}
+
+   .lright{
+    height: 400px;
+    background-color: aqua;
+    margin-left: 700px;
+   }
